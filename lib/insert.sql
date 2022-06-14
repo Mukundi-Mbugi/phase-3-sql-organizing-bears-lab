@@ -1,0 +1,1 @@
+INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES ("Mr. Chocolate",2,"M","grey","calm",1), ("Rowdy",3,"M","brown","calm",0), ("Tabitha",3,"F","black","aggressive",1), ("Sergeant Brown",7,"M","white","calm",1), ("Melissa",2,"F","grey","calm",1), ("Grinch",5,"M","grey","calm",1), ("Wendy",4,"F","grey","naive",1), (NULL,2,"M","grey","calm",0);
